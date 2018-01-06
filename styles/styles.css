@@ -1,0 +1,9 @@
+#menu_wrapper .left_col {
+	float: left;
+	width: 50%;
+}
+
+#menu_wrapper .right_col {
+	float: right;
+	width: 50%;
+}
